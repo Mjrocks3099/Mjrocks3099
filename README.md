@@ -1,7 +1,7 @@
-
-
 <h1 align="center">Hi 👋, I'm mjrocks30</h1>
 <h3 align="center">Wanted to Become a Fullstack Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mjrocks30&label=Profile%20views&color=0e75b6&style=flat" alt="mjrocks30" /> </p>
 
 - 🔭 I’m currently working on [MCA-LPU-2SEM](https://github.com/Mjrocks3099/MCA-LPU-2SEM.git)
 
@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maulik jain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maulik jain" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/maulik-jain-445bb9176" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/maulik-jain-445bb9176" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/mj techn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mj techn" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@maulik_shrishti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@maulik_shrishti" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/maulik_shrishti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/maulik_shrishti" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/maulik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="maulik" height="30" width="40" /></a>
 </p>
 
