@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MCA-LPU-2SEM](https://github.com/Mjrocks3099/MCA-LPU-2SEM.git)
 
-- 🌱 I’m currently learning **c++,Java,Html,Css,JS, REACT JS, NODE JS AWS,DEVOPS**
+- 🌱 I’m currently learning **  AWS,DEVOPS**
 
 - 📝 I regularly write articles on my youtube videos [https://mjtech30.blogspot.com/](https://mjtech30.blogspot.com/)
 
